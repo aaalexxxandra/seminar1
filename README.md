@@ -22,4 +22,4 @@
 ---|:---:
 Разработчик|Джон Грубер  
 Опубликован|2004-03-19
-Сайт| <daringfireball.net/proje…>
+Сайт| <https://daringfireball.net/projects/markdown/>
